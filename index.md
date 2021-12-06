@@ -3,8 +3,8 @@
 ---
 
 # **Deebees Whole Sale Price List**
-    
-   ## DeeBees Round Neck T-Shirts
+
+<h2 align="center">DeeBees Round Neck T-Shirts</h2>
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc. GST)|W.S.P.(Ex. GST)|(3XL)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -17,7 +17,7 @@
 |7.|DBMRNBGT|Round Neck|DB Men Bugati|Single Jersy Single BioWash|100% Cotton|200|₹549/-|₹135/-|₹145/-|
 |8.|DBMRNPRM|Round Neck|DB Men Premium|Single Jersy Double BioWash|100% Cotton|200|₹649/-|₹155/-|₹165/-|
 
-   ## DeeBees Polo Neck T-Shirts
+<h2 align="center">DeeBees Polo Neck T-Shirts</h2>
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc. GST)|W.S.P.(Ex. GST)|(3XL)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
