@@ -4,7 +4,7 @@
 
 # **Deebees Whole Sale Price List**
     
-    DeeBees Round Neck T-Shirts
+   ## DeeBees Round Neck T-Shirts
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc. GST)|W.S.P.(Ex. GST)|(3XL)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -17,7 +17,7 @@
 |7.|DBMRNBGT|Round Neck|DB Men Bugati|Single Jersy Single BioWash|100% Cotton|200|₹549/-|₹135/-|₹145/-|
 |8.|DBMRNPRM|Round Neck|DB Men Premium|Single Jersy Double BioWash|100% Cotton|200|₹649/-|₹155/-|₹165/-|
 
-    DeeBees Polo Neck T-Shirts
+   ## DeeBees Polo Neck T-Shirts
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc. GST)|W.S.P.(Ex. GST)|(3XL)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -33,12 +33,12 @@
 
 ---
 ---
-# ___DEEBEES CLOTHING___
-## __Main Office Address__
-## #8, 1st Main, 1st Cross, Gr Floor, Sudhamanagar, Bangalore-27.
-## Tel:-080-22227879,
-## E-Mail:- db.india@yahoo.com
+## ___DEEBEES CLOTHING___
+### __Main Office Address__
+### #8, 1st Main, 1st Cross, Gr Floor, Sudhamanagar, Bangalore-27.
+### Tel:-080-22227879,
+### E-Mail:- db.india@yahoo.com
 ---
-## __Godown Office Address__
-## #19/4, 1st Floor, 7th Cross Siddhaiya Road, Sudhamanagar, Bangalore-27
-## E-Mail:- deebeesindia@outlook.com
+### __Godown Office Address__
+### #19/4, 1st Floor, 7th Cross Siddhaiya Road, Sudhamanagar, Bangalore-27
+### E-Mail:- deebeesindia@outlook.com
