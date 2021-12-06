@@ -2,8 +2,7 @@
 
 ---
 
-# **Deebees Whole Sale Price List**
-
+<h1 align="center">Deebees Whole Sale Price List</h1>
 <h2 align="center">DeeBees Round Neck T-Shirts</h2>
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc. GST)|W.S.P.(Ex. GST)|(3XL)|
