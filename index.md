@@ -7,21 +7,21 @@
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMRNACT|RN|Activa White|Salena|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
-|2.|DBMRNACT|RN|Activa Colour|Salena|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
-|3.|DBMRNSFT|RN|Swift|Salena|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
+|1.|DBMRNACT|RN|Activa White|Salina|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
+|2.|DBMRNACT|RN|Activa Colour|Salina|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
+|3.|DBMRNSFT|RN|Swift|Salina|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
 |4.|DBMRNDZR|RN|Dzire|HoneyCombMicro|DriFit|200|₹399/-|₹95/-|₹95/-|₹105/-|
-|5.|DBMRNSPL|RN|Splendor|Single Jersy|Cotton Semi Combed|150|₹449/-|₹105/-|₹115/-|₹125/-|
-|6.|DBMRNBGT|RN|Bugati|Single Jersy|Cotton Single BioWash|200|₹549/-|₹145/-|₹155/-|₹165/-|
-|7.|DBMRNPRM|RN|Premium|Single Jersy|Cotton Double BioWash|200|₹649/-|₹165/-|₹175/-|₹185/-|
+|5.|DBMRNSPL|RN|Splendor|Single Jersy|CottonSemiCombed|150|₹449/-|₹105/-|₹115/-|₹125/-|
+|6.|DBMRNBGT|RN|Bugati|Single Jersy|CottonSingleBioWash|200|₹549/-|₹145/-|₹155/-|₹165/-|
+|7.|DBMRNPRM|RN|Premium|Single Jersy|CottonDoubleBioWash|200|₹649/-|₹165/-|₹175/-|₹185/-|
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMPOMOX|Polo|Model-X|Polyster Pique|DryFit|180 |₹499/-|₹135/-|₹135/-|₹160/-|
-|2.|DBMPOCAZ|Polo|Ciaz|HoneyComb Micro|100% Polyster DryFit|200|₹549/-|₹135/-|₹135/-|₹160/-|
-|3.|DBMPOCVC|Polo|Civic|Structured Micros|100% Polyster DryFit|210|₹699/-|₹175/-|₹175/-|₹200/-|
+|1.|DBMPOMOX|Polo|Model-X|Pique|DryFit|180 |₹499/-|₹135/-|₹135/-|₹160/-|
+|2.|DBMPOCAZ|Polo|Ciaz|HoneyCombMicro|DryFit|200|₹549/-|₹135/-|₹135/-|₹160/-|
+|3.|DBMPOCVC|Polo|Civic|Structured Micros|DryFit|210|₹699/-|₹175/-|₹175/-|₹200/-|
 |4.|DBMPOSPB|Polo|Superb|Pique|Polycotton|220|₹699/-|₹175/-|₹175/-|₹200/-|
 |5.|DBMPOSPBTP|Polo|Superb TP|Pique|Polycotton|220|₹749/-|₹185/-|₹185/-|₹210/-|
 |6.|DBMPOCRN|Polo|Carnival|Pique|DriFit|200|₹699/-|₹185/-|₹185/-|₹210/-|
