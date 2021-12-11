@@ -43,8 +43,8 @@
 ---
 ## ___DEEBEES CLOTHING___
 ### __Main Office Address__
-### #8, 1st Main, 1st Cross, Gr Floor, Sudhamanagar, Bangalore-27.
-### Tel:-080-22227879,
+### #8, 1st Main, 1st Cross, Gr. Floor, Sudhamanagar, Bangalore-27.
+### Tel:- 080-22227879,
 ### E-Mail:- db.india@yahoo.com
 ---
 ### __Godown Office Address__
