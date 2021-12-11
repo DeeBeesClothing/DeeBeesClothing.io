@@ -5,7 +5,7 @@
 <h1 align="center">Deebees Whole Sale Price List</h1>
 <h2 align="center">DeeBees Round Neck T-Shirts</h2>
 
-|SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL(Ex.GST)|3XL(Ex.GST)|
+|SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBMRNACT|Round Neck|DB Men Activa White|DryFit Micro|100% Polyster|130|₹249/-|₹59/-|₹69/-|₹79/-|
 |2.|DBMRNACT|Round Neck|DB Men Activa Colour|DryFit Micro|100% Polyster|130|₹249/-|₹65/-|₹75/-|₹85/-|
