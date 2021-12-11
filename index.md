@@ -7,9 +7,9 @@
 |2.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹299/-|₹65/-|₹75/-|₹85/-|
 |3.|DBMRNSFT|Swift|Salina|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
 |4.|DBMRNDZR|Dzire|HoneyComb|MicroDriFit|200|₹399/-|₹95/-|₹95/-|₹105/-|
-|5.|DBMRNSPL|Splendor|Single Jersy|CottonSemiCombed|150|₹449/-|₹105/-|₹115/-|₹125/-|
-|6.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBioWash|200|₹599/-|₹145/-|₹155/-|₹165/-|
-|7.|DBMRNPRM|Premium|Single Jersy|CottonDoubleBioWash|200|₹649/-|₹165/-|₹175/-|₹185/-|
+|5.|DBMRNSPL|Splendor|Single Jersy|CottonSemiComb|150|₹449/-|₹105/-|₹115/-|₹125/-|
+|6.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBio|200|₹599/-|₹145/-|₹155/-|₹165/-|
+|7.|DBMRNPRM|Premium|Single Jersy|CottonDoubleBio|200|₹649/-|₹165/-|₹175/-|₹185/-|
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
