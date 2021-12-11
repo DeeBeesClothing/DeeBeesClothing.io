@@ -33,11 +33,11 @@
 |15.|DBMPOR8TP|R8_TP|Pique|100%Cotton|260|₹1149/-|₹285/-|₹285/-|₹310/-|
 
 __Note:-__
-1. M.R.P. are inclluding GST @ 12% _(W.E.F. 1 jan 2021)_.
-1. W.S.P. are excluding GST @12%. _(W.E.F. 1 jan 2021)_
-1. 2XL and above are different rate as shown in the list.
-1. For any bulk order please contact or visit us at below given details.
-1. All Prices are subject to change according to the time of market, In that case, We will update the list within 1-2 days.
+1. ___M.R.P. are inclluding GST @ 12% _(W.E.F. 1 jan 2022)_.___
+1. ___W.S.P. are excluding GST @12%. _(W.E.F. 1 jan 2022)_.___
+1. ___2XL and above will be charged extra, as shown in the list.___
+1. ___For any bulk orders or querry please contact or visit us at below given details.___
+1. ___All Prices are subject to change according to the time of market, In that case, We will update the list within 1-2 days.___
 
 
 ---
