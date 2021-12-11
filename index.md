@@ -4,26 +4,26 @@
 |SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.|W.S.P.|2XL|3XL|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBMRNACT|ActivaWhite|Salina|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
-|2.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
+|2.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹299/-|₹65/-|₹75/-|₹85/-|
 |3.|DBMRNSFT|Swift|Salina|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
 |4.|DBMRNDZR|Dzire|HoneyComb|MicroDriFit|200|₹399/-|₹95/-|₹95/-|₹105/-|
 |5.|DBMRNSPL|Splendor|Single Jersy|CottonSemiCombed|150|₹449/-|₹105/-|₹115/-|₹125/-|
-|6.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBioWash|200|₹549/-|₹145/-|₹155/-|₹165/-|
+|6.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBioWash|200|₹599/-|₹145/-|₹155/-|₹165/-|
 |7.|DBMRNPRM|Premium|Single Jersy|CottonDoubleBioWash|200|₹649/-|₹165/-|₹175/-|₹185/-|
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
 |SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.|W.S.P.|2XL|3XL|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMPOMOX|Model_X|Pique|DryFit|180 |₹499/-|₹135/-|₹135/-|₹160/-|
+|1.|DBMPOMOX|Model_X|Pique|DryFit|180 |₹549/-|₹135/-|₹135/-|₹160/-|
 |2.|DBMPOCAZ|Ciaz|HoneyComb|MicroDryFit|200|₹549/-|₹135/-|₹135/-|₹160/-|
 |3.|DBMPOCVC|Civic|Structured|MicroDryFit|210|₹749/-|₹185/-|₹185/-|₹210/-|
 |4.|DBMPOSPB|Superb|Pique|Polycotton|220|₹699/-|₹175/-|₹175/-|₹200/-|
 |5.|DBMPOSPBTP|Superb_TP|Pique|Polycotton|220|₹749/-|₹185/-|₹185/-|₹210/-|
-|6.|DBMPOCRN|Carnival|Pique|DriFit|200|₹699/-|₹185/-|₹185/-|₹210/-|
-|7.|DBMPOCRNTP|Carnival_TP|Pique|DriFit|200|₹749/-|₹195/-|₹195/-|₹220/-|
-|8.|DBMPOCRL|Corolla|Pique|PolyCotton|240|₹899/-|₹215/-|₹225/-|₹240/-|
-|9.|DBMPOCRLTP|Corolla_TP|Pique|PolyCotton|240|₹949/-|₹225/-|₹235/-|₹250/-|
+|6.|DBMPOCRN|Carnival|Pique|DriFit|200|₹749/-|₹185/-|₹185/-|₹210/-|
+|7.|DBMPOCRNTP|Carnival_TP|Pique|DriFit|200|₹799/-|₹195/-|₹195/-|₹220/-|
+|8.|DBMPOCRL|Corolla|Pique|PolyCotton|240|₹849/-|₹215/-|₹225/-|₹240/-|
+|9.|DBMPOCRLTP|Corolla_TP|Pique|PolyCotton|240|₹899/-|₹225/-|₹235/-|₹250/-|
 |10.|DBMPOJGR|Jaguar|Pique|100%Cotton|240|₹999/-|₹245/-|₹245/-|₹270/-|
 |11.|DBMPOJGRTP|Jaguar_TP|Pique|100%Cotton|240|₹949/-|₹255/-|₹255/-|₹280/-|
 |11.|DBMPOACOTP|Accord_TP|Pique|CottonPoly|220|₹949/-|₹255/-|₹265/-|₹280/-|
