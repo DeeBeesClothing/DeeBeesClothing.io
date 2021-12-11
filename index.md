@@ -3,8 +3,8 @@
 
 |SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.|W.S.P.|2XL|3XL|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMRNACT|Activa_White|Salina|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
-|2.|DBMRNACT|Activa_Colour|Salina|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
+|1.|DBMRNACT|ActivaWhite|Salina|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
+|2.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
 |3.|DBMRNSFT|Swift|Salina|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
 |4.|DBMRNDZR|Dzire|HoneyComb|MicroDriFit|200|₹399/-|₹95/-|₹95/-|₹105/-|
 |5.|DBMRNSPL|Splendor|Single Jersy|CottonSemiCombed|150|₹449/-|₹105/-|₹115/-|₹125/-|
