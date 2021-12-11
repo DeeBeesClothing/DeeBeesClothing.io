@@ -17,20 +17,20 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBMPOMOX|Model_X|Pique|DryFit|180 |₹499/-|₹135/-|₹135/-|₹160/-|
 |2.|DBMPOCAZ|Ciaz|HoneyComb|MicroDryFit|200|₹549/-|₹135/-|₹135/-|₹160/-|
-|3.|DBMPOCVC|Civic|Structured|MicroDryFit|210|₹699/-|₹175/-|₹175/-|₹200/-|
+|3.|DBMPOCVC|Civic|Structured|MicroDryFit|210|₹749/-|₹185/-|₹185/-|₹210/-|
 |4.|DBMPOSPB|Superb|Pique|Polycotton|220|₹699/-|₹175/-|₹175/-|₹200/-|
 |5.|DBMPOSPBTP|Superb_TP|Pique|Polycotton|220|₹749/-|₹185/-|₹185/-|₹210/-|
 |6.|DBMPOCRN|Carnival|Pique|DriFit|200|₹699/-|₹185/-|₹185/-|₹210/-|
 |7.|DBMPOCRNTP|Carnival_TP|Pique|DriFit|200|₹749/-|₹195/-|₹195/-|₹220/-|
-|8.|DBMPOCRL|Corolla|Pique|PolyCotton|240|₹899/-|₹225/-|₹225/-|₹250/-|
-|9.|DBMPOCRLTP|Corolla_TP|Pique|PolyCotton|240|₹949/-|₹235/-|₹235/-|₹260/-|
+|8.|DBMPOCRL|Corolla|Pique|PolyCotton|240|₹899/-|₹215/-|₹225/-|₹240/-|
+|9.|DBMPOCRLTP|Corolla_TP|Pique|PolyCotton|240|₹949/-|₹225/-|₹235/-|₹250/-|
 |10.|DBMPOJGR|Jaguar|Pique|100%Cotton|240|₹999/-|₹245/-|₹245/-|₹270/-|
 |11.|DBMPOJGRTP|Jaguar_TP|Pique|100%Cotton|240|₹949/-|₹255/-|₹255/-|₹280/-|
-|11.|DBMPOACOTP|Accord_TP|Pique|CottonPoly|220|₹949/-|₹245/-|₹245/-|₹270/-|
+|11.|DBMPOACOTP|Accord_TP|Pique|CottonPoly|220|₹949/-|₹255/-|₹265/-|₹280/-|
 |12.|DBMPOQ5P|Q5_Pocket|Pique|100%Cotton|260|₹1099/-|₹275/-|₹275/-|₹300/-|
-|13.|DBMPOQ7|Q7|Pique|100%Cotton|260|₹1099/-|₹275/-|₹275/-|₹300/-|
-|14.|DBMPOR8|R8|Pique|100%Cotton|260|₹1099/-|₹275/-|₹275/-|₹300/-|
-|15.|DBMPOR8TP|R8_TP|Pique|100%Cotton|260|₹1149/-|₹285/-|₹285/-|₹310/-|
+|13.|DBMPOQ7|Q7|Pique|100%Cotton|260|₹1149/-|₹285/-|₹295/-|₹320/-|
+|14.|DBMPOR8|R8|Pique|100%Cotton|260|₹1149/-|₹285/-|₹285/-|₹320/-|
+|15.|DBMPOR8TP|R8_TP|Pique|100%Cotton|260|₹1199/-|₹295/-|₹305/-|₹330/-|
 
 __Note:-__
 1. ___M.R.P. are inclluding GST @ 12% _(W.E.F. 1 JAN 2022)_.___
