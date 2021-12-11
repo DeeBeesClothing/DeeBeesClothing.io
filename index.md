@@ -7,13 +7,13 @@
 
 |SN|SKUs|Type|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMRNACT|RN|Activa White|DryFit Micro|100% Polyster|130|₹249/-|₹59/-|₹69/-|₹79/-|
-|2.|DBMRNACT|RN|Activa Colour|DryFit Micro|100% Polyster|130|₹249/-|₹65/-|₹75/-|₹85/-|
-|3.|DBMRNSFT|RN|Swift|DryFit Micro|100% Polyster|160|₹349/-|₹85/-|₹85/-|₹95/-|
-|4.|DBMRNDZR|RN|Dzire|HoneyComb DryFit Micro|100% Polyster|200|₹399/-|₹95/-|₹95/-|₹105/-|
-|5.|DBMRNSPL|RN|Splendor|Single Jersy Semi Combed|100% Cotton|150|₹449/-|₹105/-|₹115/-|₹125/-|
-|6.|DBMRNBGT|RN|Bugati|Single Jersy Single BioWash|100% Cotton|200|₹549/-|₹145/-|₹155/-|₹165/-|
-|7.|DBMRNPRM|RN|Premium|Single Jersy Double BioWash|100% Cotton|200|₹649/-|₹165/-|₹175/-|₹185/-|
+|1.|DBMRNACT|RN|Activa White|Salena|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
+|2.|DBMRNACT|RN|Activa Colour|Salena|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
+|3.|DBMRNSFT|RN|Swift|Salena|DriFit|160|₹349/-|₹85/-|₹85/-|₹95/-|
+|4.|DBMRNDZR|RN|Dzire|HoneyCombMicro|DriFit|200|₹399/-|₹95/-|₹95/-|₹105/-|
+|5.|DBMRNSPL|RN|Splendor|Single Jersy|Cotton Semi Combed|150|₹449/-|₹105/-|₹115/-|₹125/-|
+|6.|DBMRNBGT|RN|Bugati|Single Jersy|Cotton Single BioWash|200|₹549/-|₹145/-|₹155/-|₹165/-|
+|7.|DBMRNPRM|RN|Premium|Single Jersy|Cotton Double BioWash|200|₹649/-|₹165/-|₹175/-|₹185/-|
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
