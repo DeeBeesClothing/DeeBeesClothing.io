@@ -5,7 +5,7 @@
 <h1 align="center">Deebees Whole Sale Price List</h1>
 <h2 align="center">DeeBees Round Neck Men's Collection T-Shirts</h2>
 
-|SN|SKUs|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
+|SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBMRNACT|Activa White|Salina|DriFIt|130|₹249/-|₹59/-|₹69/-|₹79/-|
 |2.|DBMRNACT|Activa Colour|Salina|DriFit|130|₹249/-|₹65/-|₹75/-|₹85/-|
@@ -17,7 +17,7 @@
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
-|SN|SKUs|Brand/Design|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
+|SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.(Inc.GST)|W.S.P.(Ex.GST)|2XL (Ex.GST)|3XL (Ex.GST)|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBMPOMOX|Model-X|Pique|DryFit|180 |₹499/-|₹135/-|₹135/-|₹160/-|
 |2.|DBMPOCAZ|Ciaz|HoneyComb|MicroDryFit|200|₹549/-|₹135/-|₹135/-|₹160/-|
