@@ -32,6 +32,12 @@
 |14.|DBMPOR8|R8|Pique|100%Cotton|260|₹1149/-|₹285/-|₹285/-|₹320/-|
 |15.|DBMPOR8TP|R8_TP|Pique|100%Cotton|260|₹1199/-|₹295/-|₹305/-|₹330/-|
 
+<h2 align="center">DeeBees Polo Neck Women's Collection T-Shirts</h2>
+
+|SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.|W.S.P.|2XL|3XL|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|1.|DBWPOBET|Beetal|Pique|PolyCotton|220|₹999/-|₹245/-|₹245/-|₹270/-|
+
 __Note:-__
 1. ___M.R.P. are inclluding GST @ 12% _(W.E.F. 1 JAN 2022)_.___
 1. ___W.S.P. are excluding GST @12%. _(W.E.F. 1 JAN 2022)_.___
