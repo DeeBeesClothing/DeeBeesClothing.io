@@ -36,7 +36,7 @@
 
 |SN|SKUs|Style|Fabric|Blend|G.S.M.|M.R.P.|W.S.P.|2XL|3XL|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBWPOBET|Beetal|Pique|PolyCotton|220|₹999/-|₹245/-|₹245/-|₹270/-|
+|1.|DBWPOBTL|Beetal|Pique|PolyCotton|220|₹999/-|₹245/-|₹245/-|₹270/-|
 
 __Note:-__
 1. ___M.R.P. are inclluding GST @ 12% _(W.E.F. 1 JAN 2022)_.___
