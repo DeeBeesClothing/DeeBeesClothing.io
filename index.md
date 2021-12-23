@@ -84,7 +84,8 @@ __Note:-__
 ---
 ---
 ## ___DEEBEES CLOTHING___
-|__Main Office Address__|__Godown Office Address__|
+
+|Main Office Address|Godown Office Address|
 |:---|:---|
 |#8, 1st Main, 1st Cross, Gr. Floor, Sudhamanagar, Bangalore-27.|#19/4, 1st Floor, 7th Cross Siddhaiya Road, Sudhamanagar, Bangalore-27|
 |Tel/E-Mail:- 080-22227879/ db.india@yahoo.com|deebeesindia@outlook.com|
