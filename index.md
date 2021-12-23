@@ -47,7 +47,7 @@ title: DeeBees WSP Price List
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|DBFLZHNZIP|HighNeck_Zip|Fleeze|FleezeCotton|300|~~₹1999/-~~|₹395/-|₹410/-|₹425/-|
 |2.|DBFLZHDZIP|Hoody_Zip|Fleeze|FleezeCotton|300|~~₹1999/-~~|₹395/-|₹410/-|₹425/-|
-|3.|DBFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|300|~~₹1999/-~~|₹395/-|₹410/-|₹425/-|
+|3.|DBFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|300|~~₹1999/-~~|₹350/-|₹410/-|₹425/-|
 
 <h2 align="center">SPORTIQO SweatShirt Collection</h2>
 
@@ -55,7 +55,7 @@ title: DeeBees WSP Price List
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1.|SQFLZHNZIP|HighNeck_Zip|Fleeze|FleezeCotton|330|~~₹2999/-~~|₹595/-|₹610/-|₹625/-|
 |2.|SQFLZHDZIP|Hoody_Zip|Fleeze|FleezeCotton|330|~~₹2999/-~~|₹595/-|₹610/-|₹625/-|
-|3.|SQFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|330|~~₹2999/-~~|₹595/-|₹610/-|₹625/-|
+|3.|SQFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|330|~~₹2999/-~~|₹550/-|₹610/-|₹625/-|
 
 <h2 align="center">POLICE SweatShirt Collection</h2>
 
