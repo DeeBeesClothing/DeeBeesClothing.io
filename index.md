@@ -57,22 +57,6 @@ title: DeeBees WSP Price List
 |2.|SQFLZHDZIP|Hoody_Zip|Fleeze|FleezeCotton|330|₹595/-|₹610/-|₹625/-|
 |3.|SQFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|330|₹550/-|₹610/-|₹625/-|
 
-<h2 align="center">POLICE SweatShirt Collection</h2>
-
-|SN|SKUs|Style|Fabric|Blend|G.S.M.|W.S.P.|2XL|3XL|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|PLCFLZHNZIP|HighNeck_Zip|Fleeze|FleezeCotton|350|₹795/-|₹810/-|₹825/-|
-|2.|PLCFLZHDZIP|Hoody_Zip|Fleeze|FleezeCotton|350|₹795/-|₹810/-|₹825/-|
-|3.|PLCFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|350|₹795/-|₹810/-|₹825/-|
-
-<h2 align="center">CROCODILE SweatShirt Collection</h2>
-
-|SN|SKUs|Style|Fabric|Blend|G.S.M.|W.S.P.|2XL|3XL|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|CRDFLZHNZIP|HighNeck_Zip|Fleeze|FleezeCotton|350|₹895/-|₹910/-|₹925/-|
-|2.|CRDFLZHDZIP|Hoody_Zip|Fleeze|FleezeCotton|350|₹895/-|₹910/-|₹925/-|
-|3.|CRDFLZHDNONZIP|Hoody_NonZip|Fleeze|FleezeCotton|350|₹895/-|₹910/-|₹925/-|
-
 __Note:-__
 1. ___Rates are excluding GST @12%. _(W.E.F. 1 JAN 2022)_.___
 1. ___2XL and above will be charged extra, as shown in the list.___
