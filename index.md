@@ -6,13 +6,17 @@ title: DeeBees WSP Price List
 
 |SN|SKUs|Style|Fabric|Blend|G.S.M.|W.S.P.|2XL|3XL|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|1.|DBMRNACT|ActivaWhite|Salina|DriFIt|130|₹59/-|₹69/-|₹79/-|
-|2.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹65/-|₹75/-|₹85/-|
-|3.|DBMRNSFT|Swift|Salina|DriFit|160|₹85/-|₹85/-|₹95/-|
-|4.|DBMRNDZR|Dzire|HoneyComb|MicroDriFit|200|₹95/-|₹95/-|₹105/-|
-|5.|DBMRNSPL|Splendor|Single Jersy|CottonSemiComb|150|₹105/-|₹115/-|₹125/-|
-|6.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBio|200|₹145/-|₹155/-|₹165/-|
-|7.|DBMRNPRM|Premium|Single Jersy|CottonDoubleBio|200|₹165/-|₹175/-|₹185/-|
+|1A.|DBMRNATL|AltoWhite|PP|DriFIt|110|₹49/-|₹59/-|₹64/-|
+|1B.|DBMRNATL|AltoColor|PP|DriFIt|110|₹55/-|₹65/-|₹70/-|
+|2A.|DBMRNACT|ActivaWhite|Salina|DriFIt|130|₹59/-|₹69/-|₹79/-|
+|2B.|DBMRNACT|ActivaColour|Salina|DriFit|130|₹65/-|₹75/-|₹85/-|
+|3.|DBMRNSPL|Splendor|Single Jersy|CottonSemiComb|150|₹105/-|₹115/-|₹125/-|
+|4.|DBMRNNXN|Nexon|PolyCotton|PC|180|₹105/-|₹115/-|₹125/-|
+|5.|DBMRNSFT|Swift|Salina|DriFit|160|₹85/-|₹85/-|₹95/-|
+|6.|DBMRNDZR|Dzire|HoneyComb|MicroDriFit|200|₹95/-|₹95/-|₹105/-|
+|7.|DBMRNSPL|Splendor|Single Jersy|CottonSemiComb|150|₹105/-|₹115/-|₹125/-|
+|8.|DBMRNBGT|Bugati|Single Jersy|CottonSingleBio|200|₹145/-|₹155/-|₹165/-|
+|9.|DBMRNPRM|Premium|Single Jersy|CottonDoubleBio|200|₹165/-|₹175/-|₹185/-|
 
 <h2 align="center">DeeBees Polo Neck Men's Collection T-Shirts</h2>
 
