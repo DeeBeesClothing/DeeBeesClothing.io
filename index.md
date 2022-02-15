@@ -1,6 +1,4 @@
----
-title: DeeBees WSP Price List
----
+
 <h1 align="center">Deebees Whole Sale Price List</h1>
 <h2 align="center">DeeBees Round Neck Men's Collection T-Shirts</h2>
 
@@ -76,3 +74,6 @@ __Note:-__
 |:---|:---|
 |#8, 1st Main, 1st Cross, Gr. Floor, Sudhamanagar, Bangalore-27.|#19/4, 1st Floor, 7th Cross Siddhaiya Road, Sudhamanagar, Bangalore-27|
 |Tel/E-Mail:- 080-22227879/ db.india@yahoo.com|deebeesindia@outlook.com|
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMsFiM0tCG5bKbZmCu3cYo_R1b-WXZnmJP7aMaayuY5LIMAMEs60H84ddiWyLaA/pubhtml?gid=73284293&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
